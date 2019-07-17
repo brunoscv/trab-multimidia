@@ -27,15 +27,20 @@ pip install mahotas
 ## Passos
 ### Passo 1
 ![Alt text](https://github.com/brunoscv/trab-multimidia/blob/master/tons-cinza.PNG?raw=true "Optional Title")
+Tons de Cinza
 
 ### Passo 2
-![Alt text](https://github.com/brunoscv/trab-multimidia/blob/master/tons-cinza.PNG?raw=true "Optional Title")
+![Alt text](https://github.com/brunoscv/trab-multimidia/blob/master/blur.PNG?raw=true "Optional Title")
+Blur
 
 ### Passo 3
-![Alt text](https://github.com/brunoscv/trab-multimidia/blob/master/tons-cinza.PNG?raw=true "Optional Title")
+![Alt text](https://github.com/brunoscv/trab-multimidia/blob/master/otsu.PNG?raw=true "Optional Title")
+Binarização
 
 ### Passo 4
-![Alt text](https://github.com/brunoscv/trab-multimidia/blob/master/tons-cinza.PNG?raw=true "Optional Title")
+![Alt text](https://github.com/brunoscv/trab-multimidia/blob/master/canny.PNG?raw=true "Optional Title")
+Detector de Bordas
 
 ### Passo 5
-![Alt text](https://github.com/brunoscv/trab-multimidia/blob/master/tons-cinza.PNG?raw=true "Optional Title")
+![Alt text](https://github.com/brunoscv/trab-multimidia/blob/master/resultado.PNG?raw=true "Optional Title")
+Contagem de imagens e bordas desenhadas
