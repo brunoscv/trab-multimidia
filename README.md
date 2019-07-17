@@ -26,4 +26,16 @@ pip install mahotas
 
 ## Passos
 ### Passo 1
-[image](https://drive.google.com/file/d/1_okFjyxtaCTGx7HmM7kHAJV73CkSRlIq/view?usp=sharing)
+![Alt text](https://github.com/brunoscv/trab-multimidia/blob/master/tons-cinza.PNG?raw=true "Optional Title")
+
+### Passo 2
+![Alt text](https://github.com/brunoscv/trab-multimidia/blob/master/tons-cinza.PNG?raw=true "Optional Title")
+
+### Passo 3
+![Alt text](https://github.com/brunoscv/trab-multimidia/blob/master/tons-cinza.PNG?raw=true "Optional Title")
+
+### Passo 4
+![Alt text](https://github.com/brunoscv/trab-multimidia/blob/master/tons-cinza.PNG?raw=true "Optional Title")
+
+### Passo 5
+![Alt text](https://github.com/brunoscv/trab-multimidia/blob/master/tons-cinza.PNG?raw=true "Optional Title")
